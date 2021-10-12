@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Extensions_MyLibrary/1.0.0": {
+        "dependencies": {
+          "MyMathLib": "1.0.0.0"
+        },
+        "runtime": {
+          "Extensions_MyLibrary.dll": {}
+        }
+      },
+      "MyMathLib/1.0.0.0": {
+        "runtime": {
+          "MyMathLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Extensions_MyLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyMathLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
