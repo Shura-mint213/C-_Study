@@ -1,0 +1,16 @@
+C:\Users\иван\Desktop\языки\C\C#\Study\Enum\bin\Debug\net5.0\Enum.exe
+C:\Users\иван\Desktop\языки\C\C#\Study\Enum\bin\Debug\net5.0\Enum.deps.json
+C:\Users\иван\Desktop\языки\C\C#\Study\Enum\bin\Debug\net5.0\Enum.runtimeconfig.json
+C:\Users\иван\Desktop\языки\C\C#\Study\Enum\bin\Debug\net5.0\Enum.runtimeconfig.dev.json
+C:\Users\иван\Desktop\языки\C\C#\Study\Enum\bin\Debug\net5.0\Enum.dll
+C:\Users\иван\Desktop\языки\C\C#\Study\Enum\bin\Debug\net5.0\ref\Enum.dll
+C:\Users\иван\Desktop\языки\C\C#\Study\Enum\bin\Debug\net5.0\Enum.pdb
+C:\Users\иван\Desktop\языки\C\C#\Study\Enum\obj\Debug\net5.0\Enum.csproj.AssemblyReference.cache
+C:\Users\иван\Desktop\языки\C\C#\Study\Enum\obj\Debug\net5.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\иван\Desktop\языки\C\C#\Study\Enum\obj\Debug\net5.0\Enum.AssemblyInfoInputs.cache
+C:\Users\иван\Desktop\языки\C\C#\Study\Enum\obj\Debug\net5.0\Enum.AssemblyInfo.cs
+C:\Users\иван\Desktop\языки\C\C#\Study\Enum\obj\Debug\net5.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\иван\Desktop\языки\C\C#\Study\Enum\obj\Debug\net5.0\Enum.dll
+C:\Users\иван\Desktop\языки\C\C#\Study\Enum\obj\Debug\net5.0\ref\Enum.dll
+C:\Users\иван\Desktop\языки\C\C#\Study\Enum\obj\Debug\net5.0\Enum.pdb
+C:\Users\иван\Desktop\языки\C\C#\Study\Enum\obj\Debug\net5.0\Enum.genruntimeconfig.cache
