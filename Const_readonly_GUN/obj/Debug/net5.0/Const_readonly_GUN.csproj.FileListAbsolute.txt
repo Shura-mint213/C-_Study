@@ -1,0 +1,16 @@
+C:\Users\иван\Desktop\языки\C\C#\Study\Const_readonly_GUN\bin\Debug\net5.0\Const_readonly_GUN.exe
+C:\Users\иван\Desktop\языки\C\C#\Study\Const_readonly_GUN\bin\Debug\net5.0\Const_readonly_GUN.deps.json
+C:\Users\иван\Desktop\языки\C\C#\Study\Const_readonly_GUN\bin\Debug\net5.0\Const_readonly_GUN.runtimeconfig.json
+C:\Users\иван\Desktop\языки\C\C#\Study\Const_readonly_GUN\bin\Debug\net5.0\Const_readonly_GUN.runtimeconfig.dev.json
+C:\Users\иван\Desktop\языки\C\C#\Study\Const_readonly_GUN\bin\Debug\net5.0\Const_readonly_GUN.dll
+C:\Users\иван\Desktop\языки\C\C#\Study\Const_readonly_GUN\bin\Debug\net5.0\ref\Const_readonly_GUN.dll
+C:\Users\иван\Desktop\языки\C\C#\Study\Const_readonly_GUN\bin\Debug\net5.0\Const_readonly_GUN.pdb
+C:\Users\иван\Desktop\языки\C\C#\Study\Const_readonly_GUN\obj\Debug\net5.0\Const_readonly_GUN.csproj.AssemblyReference.cache
+C:\Users\иван\Desktop\языки\C\C#\Study\Const_readonly_GUN\obj\Debug\net5.0\Const_readonly_GUN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\иван\Desktop\языки\C\C#\Study\Const_readonly_GUN\obj\Debug\net5.0\Const_readonly_GUN.AssemblyInfoInputs.cache
+C:\Users\иван\Desktop\языки\C\C#\Study\Const_readonly_GUN\obj\Debug\net5.0\Const_readonly_GUN.AssemblyInfo.cs
+C:\Users\иван\Desktop\языки\C\C#\Study\Const_readonly_GUN\obj\Debug\net5.0\Const_readonly_GUN.csproj.CoreCompileInputs.cache
+C:\Users\иван\Desktop\языки\C\C#\Study\Const_readonly_GUN\obj\Debug\net5.0\Const_readonly_GUN.dll
+C:\Users\иван\Desktop\языки\C\C#\Study\Const_readonly_GUN\obj\Debug\net5.0\ref\Const_readonly_GUN.dll
+C:\Users\иван\Desktop\языки\C\C#\Study\Const_readonly_GUN\obj\Debug\net5.0\Const_readonly_GUN.pdb
+C:\Users\иван\Desktop\языки\C\C#\Study\Const_readonly_GUN\obj\Debug\net5.0\Const_readonly_GUN.genruntimeconfig.cache

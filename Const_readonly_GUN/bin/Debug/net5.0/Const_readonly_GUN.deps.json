@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Const_readonly_GUN/1.0.0": {
+        "runtime": {
+          "Const_readonly_GUN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Const_readonly_GUN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
